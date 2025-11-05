@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Taxonomy.Sections.SectionProperties.Utility.Parts
+﻿namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility.Parts
 {
     internal interface IPart
     {

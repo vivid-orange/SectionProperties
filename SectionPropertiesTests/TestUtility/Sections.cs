@@ -1,8 +1,8 @@
-﻿using MagmaWorks.Geometry;
-using MagmaWorks.Taxonomy.Materials;
-using MagmaWorks.Taxonomy.Profiles;
-using UnitsNet.Units;
-using Angle = MagmaWorks.Taxonomy.Profiles.Angle;
+﻿using UnitsNet.Units;
+using VividOrange.Geometry;
+using VividOrange.Taxonomy.Materials;
+using VividOrange.Taxonomy.Profiles;
+using Angle = VividOrange.Taxonomy.Profiles.Angle;
 
 namespace SectionPropertiesTests.TestUtility
 {

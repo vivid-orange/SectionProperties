@@ -1,6 +1,6 @@
-﻿using MagmaWorks.Taxonomy.Sections.SectionProperties.Utility.Parts;
+﻿using VividOrange.Taxonomy.Sections.SectionProperties.Utility.Parts;
 
-namespace MagmaWorks.Taxonomy.Sections.SectionProperties.Utility
+namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility
 {
     public static class RadiusOfGyrations
     {

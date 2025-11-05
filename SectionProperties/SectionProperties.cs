@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Taxonomy.Sections.SectionProperties
+﻿namespace VividOrange.Taxonomy.Sections.SectionProperties
 {
     public class SectionProperties : ISectionProperties
     {

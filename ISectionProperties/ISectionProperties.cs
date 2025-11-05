@@ -1,7 +1,7 @@
-﻿using MagmaWorks.Geometry;
-using MagmaWorks.Taxonomy.Serialization;
+﻿using VividOrange.Geometry;
+using VividOrange.Taxonomy.Serialization;
 
-namespace MagmaWorks.Taxonomy.Sections.SectionProperties
+namespace VividOrange.Taxonomy.Sections.SectionProperties
 {
     public interface ISectionProperties : ITaxonomySerializable
     {

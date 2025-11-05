@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Reflection;
-using MagmaWorks.Geometry;
-using MagmaWorks.Taxonomy.Profiles;
-using MagmaWorks.Taxonomy.Sections.SectionProperties.Utility;
-using SectionModuli = MagmaWorks.Taxonomy.Sections.SectionProperties.Utility.SectionModuli;
+using VividOrange.Geometry;
+using VividOrange.Taxonomy.Profiles;
+using VividOrange.Taxonomy.Sections.SectionProperties.Utility;
+using SectionModuli = VividOrange.Taxonomy.Sections.SectionProperties.Utility.SectionModuli;
 
 namespace SectionPropertiesTests
 {

@@ -1,4 +1,4 @@
-﻿namespace MagmaWorks.Taxonomy.Sections.SectionProperties.Utility
+﻿namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility
 {
     public static class PerimeterLengths
     {

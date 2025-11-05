@@ -1,5 +1,5 @@
-﻿using MagmaWorks.Taxonomy.Profiles;
-using Utility = MagmaWorks.Taxonomy.Sections.SectionProperties.Utility;
+﻿using VividOrange.Taxonomy.Profiles;
+using Utility = VividOrange.Taxonomy.Sections.SectionProperties.Utility;
 
 namespace SectionPropertiesTests
 {

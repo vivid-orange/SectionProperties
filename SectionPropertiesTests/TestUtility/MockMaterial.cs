@@ -1,4 +1,4 @@
-﻿using MagmaWorks.Taxonomy.Materials;
+﻿using VividOrange.Taxonomy.Materials;
 
 namespace SectionPropertiesTests.TestUtility
 {
