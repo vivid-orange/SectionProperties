@@ -1,6 +1,6 @@
-﻿using MagmaWorks.Taxonomy.Sections.SectionProperties.Utility;
+﻿using VividOrange.Taxonomy.Sections.SectionProperties.Utility;
 
-namespace MagmaWorks.Taxonomy.Sections.SectionProperties
+namespace VividOrange.Taxonomy.Sections.SectionProperties
 {
     public class ConcreteSectionProperties : SectionProperties, IConcreteSectionProperties
     {

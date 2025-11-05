@@ -1,5 +1,5 @@
-global using MagmaWorks.Taxonomy.Sections;
-global using MagmaWorks.Taxonomy.Sections.SectionProperties;
+global using VividOrange.Taxonomy.Sections;
+global using VividOrange.Taxonomy.Sections.SectionProperties;
 global using SectionPropertiesTests.TestUtility;
 global using UnitsNet;
 global using Xunit;

@@ -1,7 +1,7 @@
-﻿using MagmaWorks.Geometry;
-using MagmaWorks.Taxonomy.Materials;
-using MagmaWorks.Taxonomy.Profiles;
-using MagmaWorks.Taxonomy.Sections.Reinforcement;
+﻿using VividOrange.Geometry;
+using VividOrange.Taxonomy.Materials;
+using VividOrange.Taxonomy.Profiles;
+using VividOrange.Taxonomy.Sections.Reinforcement;
 using UnitsNet.Units;
 
 namespace SectionPropertiesTests.TestUtility
