@@ -1,8 +1,8 @@
-﻿using VividOrange.Geometry;
+﻿using UnitsNet.Units;
+using VividOrange.Geometry;
 using VividOrange.Taxonomy.Materials;
 using VividOrange.Taxonomy.Profiles;
 using VividOrange.Taxonomy.Sections.Reinforcement;
-using UnitsNet.Units;
 
 namespace SectionPropertiesTests.TestUtility
 {
