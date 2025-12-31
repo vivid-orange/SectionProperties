@@ -25,7 +25,7 @@
   <ItemGroup>
     <PackageReference Include="VividOrange.Geometry" Version="1.8.0" />
     <PackageReference Include="VividOrange.Taxonomy.Profiles.Perimeter" Version="0.2.0" />
-    <PackageReference Include="MinVer" Version="6.0.0">
+    <PackageReference Include="MinVer" Version="6.1.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
