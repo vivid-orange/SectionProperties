@@ -26,7 +26,7 @@
     <PackageReference Include="VividOrange.IGeometry" Version="1.8.0" />
     <PackageReference Include="VividOrange.Taxonomy.ISections" Version="0.2.0" />
     <PackageReference Include="VividOrange.Taxonomy.ISerialization" Version="0.2.0" />
-    <PackageReference Include="MinVer" Version="6.0.0">
+    <PackageReference Include="MinVer" Version="7.0.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
