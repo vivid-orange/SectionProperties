@@ -1,4 +1,4 @@
-﻿namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility.Parts
+﻿namespace VividOrange.Sections.SectionProperties.Utility.Parts
 {
     internal interface IPart
     {

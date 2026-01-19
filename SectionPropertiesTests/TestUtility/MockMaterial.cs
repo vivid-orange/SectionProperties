@@ -1,4 +1,4 @@
-﻿using VividOrange.Taxonomy.Materials;
+﻿using VividOrange.Materials;
 
 namespace SectionPropertiesTests.TestUtility
 {

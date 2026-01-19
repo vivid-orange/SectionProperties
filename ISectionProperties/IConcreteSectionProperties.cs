@@ -1,4 +1,4 @@
-﻿namespace VividOrange.Taxonomy.Sections.SectionProperties
+﻿namespace VividOrange.Sections.SectionProperties
 {
     public interface IConcreteSectionProperties : ISectionProperties
     {

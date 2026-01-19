@@ -1,8 +1,8 @@
 ﻿using UnitsNet.Units;
 using VividOrange.Geometry;
-using VividOrange.Taxonomy.Materials;
-using VividOrange.Taxonomy.Profiles;
-using Angle = VividOrange.Taxonomy.Profiles.Angle;
+using VividOrange.Materials;
+using VividOrange.Profiles;
+using Angle = VividOrange.Profiles.Angle;
 
 namespace SectionPropertiesTests.TestUtility
 {

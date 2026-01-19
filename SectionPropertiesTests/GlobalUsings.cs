@@ -1,6 +1,11 @@
 global using SectionPropertiesTests.TestUtility;
 global using UnitsNet;
-global using VividOrange.Taxonomy.Sections;
-global using VividOrange.Taxonomy.Sections.SectionProperties;
+global using UnitsNet.Units;
+global using VividOrange.Geometry;
+global using VividOrange.Materials;
+global using VividOrange.Profiles;
+global using VividOrange.Sections;
+global using VividOrange.Sections.Reinforcement;
+global using VividOrange.Sections.SectionProperties;
 global using Xunit;
 global using SectionModulus = UnitsNet.Volume;

@@ -1,9 +1,9 @@
 ﻿using System.Collections;
 using System.Reflection;
 using VividOrange.Geometry;
-using VividOrange.Taxonomy.Profiles;
-using VividOrange.Taxonomy.Sections.SectionProperties.Utility;
-using SectionModuli = VividOrange.Taxonomy.Sections.SectionProperties.Utility.SectionModuli;
+using VividOrange.Profiles;
+using VividOrange.Sections.SectionProperties.Utility;
+using SectionModuli = VividOrange.Sections.SectionProperties.Utility.SectionModuli;
 
 namespace SectionPropertiesTests
 {

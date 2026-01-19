@@ -1,6 +1,6 @@
 ﻿using VividOrange.Geometry;
-using VividOrange.Taxonomy.Sections.SectionProperties.Utility;
-using VividOrange.Taxonomy.Sections.SectionProperties.Utility.Parts;
+using VividOrange.Sections.SectionProperties.Utility;
+using VividOrange.Sections.SectionProperties.Utility.Parts;
 
 namespace SectionPropertiesTests
 {
