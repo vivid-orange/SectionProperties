@@ -1,6 +1,6 @@
-﻿using VividOrange.Taxonomy.Sections.SectionProperties.Utility;
+﻿using VividOrange.Sections.SectionProperties.Utility;
 
-namespace VividOrange.Taxonomy.Sections.SectionProperties
+namespace VividOrange.Sections.SectionProperties
 {
     public class ConcreteSectionProperties : SectionProperties, IConcreteSectionProperties
     {

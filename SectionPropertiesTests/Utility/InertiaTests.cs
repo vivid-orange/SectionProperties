@@ -1,5 +1,5 @@
-﻿using VividOrange.Taxonomy.Profiles;
-using Utility = VividOrange.Taxonomy.Sections.SectionProperties.Utility;
+﻿using VividOrange.Profiles;
+using Utility = VividOrange.Sections.SectionProperties.Utility;
 
 namespace SectionPropertiesTests
 {

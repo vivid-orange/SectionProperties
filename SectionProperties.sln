@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.8.34525.116
+# Visual Studio Version 18
+VisualStudioVersion = 18.2.11408.102 d18.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Taxonomy.Sections.ISectionProperties", "ISectionProperties\VividOrange.Taxonomy.Sections.ISectionProperties.csproj", "{995BF6DC-3E3E-4165-8EF2-83360537FF1F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Sections.ISectionProperties", "ISectionProperties\VividOrange.Sections.ISectionProperties.csproj", "{995BF6DC-3E3E-4165-8EF2-83360537FF1F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Taxonomy.Sections.SectionProperties", "SectionProperties\VividOrange.Taxonomy.Sections.SectionProperties.csproj", "{53294695-E114-4DA9-9F1A-F8E2C289DB60}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VividOrange.Sections.SectionProperties", "SectionProperties\VividOrange.Sections.SectionProperties.csproj", "{53294695-E114-4DA9-9F1A-F8E2C289DB60}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SectionPropertiesTests", "SectionPropertiesTests\SectionPropertiesTests.csproj", "{86D261B4-B15C-4F44-B655-CE127B7CC3C0}"
 EndProject

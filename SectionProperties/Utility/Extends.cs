@@ -1,6 +1,6 @@
-﻿using VividOrange.Taxonomy.Sections.SectionProperties.Utility.Parts;
+﻿using VividOrange.Sections.SectionProperties.Utility.Parts;
 
-namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility
+namespace VividOrange.Sections.SectionProperties.Utility
 {
     public static class Extends
     {

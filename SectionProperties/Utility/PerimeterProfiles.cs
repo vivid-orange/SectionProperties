@@ -1,4 +1,4 @@
-﻿namespace VividOrange.Taxonomy.Sections.SectionProperties.Utility
+﻿namespace VividOrange.Sections.SectionProperties.Utility
 {
     internal static class PerimeterProfiles
     {

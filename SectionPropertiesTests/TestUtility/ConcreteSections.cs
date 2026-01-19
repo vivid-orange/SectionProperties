@@ -1,9 +1,4 @@
-﻿using UnitsNet.Units;
-using VividOrange.Geometry;
-using VividOrange.Taxonomy.Materials;
-using VividOrange.Taxonomy.Profiles;
-using VividOrange.Taxonomy.Sections.Reinforcement;
-
+﻿
 namespace SectionPropertiesTests.TestUtility
 {
     internal static class ConcreteSections
